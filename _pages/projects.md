@@ -72,11 +72,24 @@ author_profile: true
 <details close>
   <summary>Conformal Structured Prediction</summary>
 
+<img src="/assets/images/structured.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
+
 **TL;DR:** This paper introduces a general framework for conformal prediction in structured settings, enabling interpretable prediction sets for complex outputs like text generation and hierarchical labels, while ensuring desired coverage guarantees.
 
 **Venue:** In Submission
 
 [Read Full Paper](https://arxiv.org/pdf/2410.06296)
+
+</details> 
+
+<details close>
+  <summary>PAC confidence predictions for deep neural network classifiers</summary>
+
+**TL;DR:** We propose a novel algorithm using Clopper-Pearson confidence intervals and histogram binning to construct provably correct classification confidences for deep neural networks, enabling rigorous downstream guarantees in fast inference and safe planning tasks.
+
+**Venue:** Accepted to ICLR, 2021
+
+[Read Full Paper](https://arxiv.org/pdf/2011.00716)
 
 </details> 
 
