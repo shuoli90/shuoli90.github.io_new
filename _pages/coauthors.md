@@ -1,17 +1,25 @@
 ---
-title: "Friends & Coauthors"
+title: "Collaborations"
 permalink: /coauthors/
 layout: single
 author_profile: true
 ---
 
-## Collaborators:
-- 
+## Friends & Collaborators:
+- [Sangdon Park](https://sangdon.github.io/)
+- [Edgar Dobriban](https://statistics.wharton.upenn.edu/profile/dobriban/)
+- [Xiayan Ji](https://xjiae.github.io/)
+- Xinmeng Huang
+- [Dongsheng Ding](https://dongshed.github.io/)
+- [Mengxin Yu](https://maxineyu.github.io/personal_web/)
+- [Mononito Goswami](https://mononito.com/)
+- [Michele Caprio](https://michelecaprio.wixsite.com/caprio)
+- [David Stutz](https://davidstutz.de/)
+- [Oleg Solkolsky](https://directory.seas.upenn.edu/oleg-sokolsky/)
 
 
 
 ## Mentored students
-
 - Botong Zhang
 - [Leo Huang](https://live-sas-physics.pantheon.sas.upenn.edu/people/leo-huang) 
 - [Sahachar Reddy](https://www.grasp.upenn.edu/people/sahachar-reddy-tippana/)
