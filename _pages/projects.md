@@ -25,6 +25,8 @@ author_profile: true
 
 [[Full Paper](https://arxiv.org/pdf/2402.03885)][[Code](https://github.com/moment-timeseries-foundation-model/moment-research)]
 
+---
+
 ## REDO: Execution-Free Runtime Error Detection for COding Agents
 
 **TL;DR:** We integrate static analysis tools with LLM to detect python runtime errors for LLM-based coding agents.
