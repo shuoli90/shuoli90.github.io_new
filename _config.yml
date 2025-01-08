@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Shuo Li"
 title_separator          : "-"
-name                     : &name "Shuo Li @ Safe AI"
+name                     : &name "SL@Safe AI"
 description              : &description "Ph.D. @ UPenn"
 url                      : https://shuoli90.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
