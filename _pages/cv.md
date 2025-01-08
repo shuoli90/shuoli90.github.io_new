@@ -6,59 +6,25 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
+Please find my [cv](https://drive.google.com/file/d/1Ggxse7G4SOu0ArDjSqYH51rswVk65ZAl/view?usp=sharing) here.
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+=====
+- Ph.D. in Computer and Information Science, University of Pennsylvania, 2020 - 2025 (expected)
+  * Advised by [Prof. Insup Lee](https://www.cis.upenn.edu/~lee/home/index.shtml) and [Prof. Osbert Bastani](https://obastani.github.io/)
+- M.S. in Robotics, University of Pennsylvania, 2018 - 2020
+  * Award: Outstanding Research Award (2020)
+- M.S. in Electric Engineering, Beihand University, 2011 - 2014
+- B.S. in Electric Engineering, China Agricultural University, 2008 - 2011
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Work Experience
+=====
+- Applied Scientist Intern @ Amazon AWS AI Lab, Summer 2024
+- Applied Scientist Intern @ Amazon AWS AI Lab, Summer 2023
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Technical Skills
+=====
+- Programming Languages: Python (7 years), Matlab, C/C++.
+- Libraries & Frameworks: PyTorch (5 years), Transformers, Scikit-Learn, LangChain.
+- Machine Learning Techniques: Supervised fine-tuning, RLHF, Conformal Prediction.
+- Tools: AWS, Git, Docker, Parallel Computing.
