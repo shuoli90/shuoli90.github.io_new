@@ -119,6 +119,19 @@ author_profile: true
 
 **Venue:** Accepted to CVPR, 2023
 
-[Read Full Paper]([https://dl.acm.org/doi/pdf/10.1145/3534678.3539408](https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf))
+[Read Full Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf)
+
+</details> 
+
+<details close>
+  <summary>Robust model predictive shielding for safe reinforcement learning with stochastic dynamics</summary>
+  
+<img src="/assets/images/mps.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
+
+**TL;DR:** We propose a framework for safe reinforcement learning in stochastic nonlinear dynamical systems by integrating a tube-based robust nonlinear model predictive controller as a backup to ensure high-probability safety guarantees, demonstrated on tasks like cart-pole and obstacle navigation.
+
+**Venue:** Accepted to ICLR, 2020
+
+[Read Full Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9196867)
 
 </details> 
