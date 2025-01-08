@@ -5,9 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-# LLM and Foundation Models
+# Topic: LLM and Foundation Models
 
-One-Shot Safety Alignment for Large Language Models via Optimal Dualization
+## One-Shot Safety Alignment for Large Language Models via Optimal Dualization
   
 **TL;DR:** We propose a one-shot safety alignment algorithm for LLM safety and helpfulness alignment.
 
@@ -17,7 +17,7 @@ One-Shot Safety Alignment for Large Language Models via Optimal Dualization
 
 ---
 
-Moment: A family of open time-series foundation models
+## Moment: A family of open time-series foundation models
 
 **TL;DR:** We collect a large and diverse collection of time series datasets, and introduce a family of time series foundation models.
 
@@ -25,61 +25,7 @@ Moment: A family of open time-series foundation models
 
 [[Full Paper](https://arxiv.org/pdf/2402.03885)][[Code](https://github.com/moment-timeseries-foundation-model/moment-research)]
 
----
-
-# Uncertainty Quantification
-
-Uncertainty in Language Models: Assessment through Rank-Calibration
-
-**TL;DR:** We propose a novel LLM uncertainty quantification metric from the perspective of monotonicity.
-
-**Venue:** Accepted to EMNLP, 2024
-
-[[Full Paper](https://arxiv.org/abs/2404.03163)][[Code](https://github.com/shuoli90/TRAQ)][[Poster](https://drive.google.com/file/d/1qgM3ftGSB1uLqcYnZUA-OpcbIm1TIG6Z/view?usp=drive_link)]
-
----
-
-TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction
-
-**TL;DR:** TRAQ utilizes Conformal prediction and Bayesian optimization to guarantee the correctness of RAG.
-**Venue:** Accepted at NAACL, 2024
-
-[[Full Paper](https://arxiv.org/abs/2307.04642)][[Code](https://github.com/shuoli90/Rank-Calibration)][[Poster](https://drive.google.com/file/d/1rhwf3D7bw1coW49HZRbjgKMyd2jVNfAT/view?usp=drive_link)]
-
----
-
-Conformalized credal regions for classification with ambiguous ground truth
-
-**TL;DR:** TRAQ utilizes Conformal prediction and Bayesian optimization to guarantee the correctness of RAG.
-**Venue:** In Submission
-
-[[Full Paper](https://arxiv.org/pdf/2411.04852)]
-
----
-
-Conformal Structured Prediction
-
-**TL;DR:** This paper introduces a general framework for conformal prediction in structured settings, enabling interpretable prediction sets for complex outputs like text generation and hierarchical labels, while ensuring desired coverage guarantees.
-
-**Venue:** In Submission
-
-[[Full Paper](https://arxiv.org/pdf/2410.06296)]
-
----
-
-PAC confidence predictions for deep neural network classifiers
-
-**TL;DR:** We propose a novel algorithm using Clopper-Pearson confidence intervals and histogram binning to construct provably correct classification confidences for deep neural networks, enabling rigorous downstream guarantees in fast inference and safe planning tasks.
-
-**Venue:** Accepted to ICLR, 2021
-
-[[Full Paper](https://arxiv.org/pdf/2011.00716)]
-
----
-
-# Trustworthy ML
-
-REDO: Execution-Free Runtime Error Detection for COding Agents
+## REDO: Execution-Free Runtime Error Detection for COding Agents
 
 **TL;DR:** We integrate static analysis tools with LLM to detect python runtime errors for LLM-based coding agents.
 
@@ -89,7 +35,59 @@ REDO: Execution-Free Runtime Error Detection for COding Agents
 
 ---
 
-PAC-Wrap: Semi-Supervised PAC Anomaly Detection
+# Topic: Uncertainty Quantification
+
+## Uncertainty in Language Models: Assessment through Rank-Calibration
+
+**TL;DR:** We propose a novel LLM uncertainty quantification metric from the perspective of monotonicity.
+
+**Venue:** Accepted to EMNLP, 2024
+
+[[Full Paper](https://arxiv.org/abs/2404.03163)][[Code](https://github.com/shuoli90/TRAQ)][[Poster](https://drive.google.com/file/d/1qgM3ftGSB1uLqcYnZUA-OpcbIm1TIG6Z/view?usp=drive_link)]
+
+---
+
+## TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction
+
+**TL;DR:** TRAQ utilizes Conformal prediction and Bayesian optimization to guarantee the correctness of RAG.
+**Venue:** Accepted at NAACL, 2024
+
+[[Full Paper](https://arxiv.org/abs/2307.04642)][[Code](https://github.com/shuoli90/Rank-Calibration)][[Poster](https://drive.google.com/file/d/1rhwf3D7bw1coW49HZRbjgKMyd2jVNfAT/view?usp=drive_link)]
+
+---
+
+## Conformalized credal regions for classification with ambiguous ground truth
+
+**TL;DR:** TRAQ utilizes Conformal prediction and Bayesian optimization to guarantee the correctness of RAG.
+**Venue:** In Submission
+
+[[Full Paper](https://arxiv.org/pdf/2411.04852)]
+
+---
+
+## Conformal Structured Prediction
+
+**TL;DR:** This paper introduces a general framework for conformal prediction in structured settings, enabling interpretable prediction sets for complex outputs like text generation and hierarchical labels, while ensuring desired coverage guarantees.
+
+**Venue:** In Submission
+
+[[Full Paper](https://arxiv.org/pdf/2410.06296)]
+
+---
+
+## PAC confidence predictions for deep neural network classifiers
+
+**TL;DR:** We propose a novel algorithm using Clopper-Pearson confidence intervals and histogram binning to construct provably correct classification confidences for deep neural networks, enabling rigorous downstream guarantees in fast inference and safe planning tasks.
+
+**Venue:** Accepted to ICLR, 2021
+
+[[Full Paper](https://arxiv.org/pdf/2011.00716)]
+
+---
+
+# Topic: Trustworthy ML
+
+## PAC-Wrap: Semi-Supervised PAC Anomaly Detection
 
 **TL;DR:** We guarantee the false positive and false negative rates of anomaly detection algorithms via conformal prediction.
 
@@ -99,7 +97,7 @@ PAC-Wrap: Semi-Supervised PAC Anomaly Detection
 
 ---
 
-Angelic patches for improving third-party object detector performance
+## Angelic patches for improving third-party object detector performance
 
 **TL;DR:** This work proposes angelic patches, generated via a reversed FGSM, to significantly enhance object detection robustness, achieving transferable improvements in classification and bounding box accuracy across models and transformations, with a 30% accuracy boost in real-world settings.
 
@@ -109,8 +107,7 @@ Angelic patches for improving third-party object detector performance
 
 ---
 
-Robust model predictive shielding for safe reinforcement learning with stochastic dynamics
-
+## Robust model predictive shielding for safe reinforcement learning with stochastic dynamics
 
 **TL;DR:** We propose a framework for safe reinforcement learning in stochastic nonlinear dynamical systems by integrating a tube-based robust nonlinear model predictive controller as a backup to ensure high-probability safety guarantees, demonstrated on tasks like cart-pole and obstacle navigation.
 
