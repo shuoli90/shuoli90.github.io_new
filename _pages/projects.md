@@ -9,7 +9,7 @@ author_profile: true
 
 <details close>
   <summary>One-Shot Safety Alignment for Large Language Models via Optimal Dualization</summary>
-  <img src="/assets/images/MoCAN.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
+  <img src="/images/MoCAN.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
 
 **TL;DR:** We propose a one-shot safety alignment algorithm for LLM safety and helpfulness alignment.
 
@@ -21,7 +21,7 @@ author_profile: true
 
 <details close>
   <summary>Moment: A family of open time-series foundation models</summary>
-  <img src="/assets/images/moment.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
+  <img src="/images/moment.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
 
 **TL;DR:** We collect a large and diverse collection of time series datasets, and introduce a family of time series foundation models.
 
@@ -37,7 +37,7 @@ author_profile: true
 <details close>
   <summary>Uncertainty in Language Models: Assessment through Rank-Calibration</summary>
   
-<img src="/assets/images/rank.png" alt="Rank" width="400" style="float: center; margin-right: 10px;">
+<img src="/images/rank.png" alt="Rank" width="400" style="float: center; margin-right: 10px;">
 
 **TL;DR:** We propose a novel LLM uncertainty quantification metric from the perspective of monotonicity.
 
@@ -50,7 +50,7 @@ author_profile: true
 <details close>
   <summary>TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction</summary>
   
-<img src="/assets/images/traq.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
+<img src="/images/traq.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
 
 **TL;DR:** TRAQ utilizes Conformal prediction and Bayesian optimization to guarantee the correctness of RAG.
 **Venue:** Accepted at NAACL, 2024
@@ -72,7 +72,7 @@ author_profile: true
 <details close>
   <summary>Conformal Structured Prediction</summary>
 
-<img src="/assets/images/structured.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
+<img src="/images/structured.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
 
 **TL;DR:** This paper introduces a general framework for conformal prediction in structured settings, enabling interpretable prediction sets for complex outputs like text generation and hierarchical labels, while ensuring desired coverage guarantees.
 
@@ -100,7 +100,7 @@ author_profile: true
 <details close>
   <summary>REDO: Execution-Free Runtime Error Detection for COding Agents</summary>
   
-<img src="/assets/images/redo.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
+<img src="/images/redo.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
 
 **TL;DR:** We integrate static analysis tools with LLM to detect python runtime errors for LLM-based coding agents.
 
@@ -113,7 +113,7 @@ author_profile: true
 <details close>
   <summary>PAC-Wrap: Semi-Supervised PAC Anomaly Detection</summary>
   
-<img src="/assets/images/great_figure.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
+<img src="/images/great_figure.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
 
 **TL;DR:** We guarantee the false positive and false negative rates of anomaly detection algorithms via conformal prediction.
 
@@ -126,7 +126,7 @@ author_profile: true
 <details close>
   <summary>Angelic patches for improving third-party object detector performance</summary>
   
-<img src="/assets/images/patch.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
+<img src="/images/patch.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
 
 **TL;DR:** This work proposes angelic patches, generated via a reversed FGSM, to significantly enhance object detection robustness, achieving transferable improvements in classification and bounding box accuracy across models and transformations, with a 30% accuracy boost in real-world settings.
 
@@ -139,7 +139,7 @@ author_profile: true
 <details close>
   <summary>Robust model predictive shielding for safe reinforcement learning with stochastic dynamics</summary>
   
-<img src="/assets/images/mps.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
+<img src="/images/mps.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
 
 **TL;DR:** We propose a framework for safe reinforcement learning in stochastic nonlinear dynamical systems by integrating a tube-based robust nonlinear model predictive controller as a backup to ensure high-probability safety guarantees, demonstrated on tasks like cart-pole and obstacle navigation.
 
