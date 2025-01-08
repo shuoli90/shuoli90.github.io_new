@@ -21,14 +21,14 @@ repository               : "shuoli90/shuoli90.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "/images/profile.jpeg"
+  name             : "Shuo Li"
+  # pronouns         : # example: "she/her"  
+  bio              : "Ph.D. @ UPenn"
+  location         : "Philadelphia, PA"
+  employer         : "University of Pennsylvania"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lishuo1@seas.upenn.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
