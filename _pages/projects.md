@@ -9,13 +9,13 @@ author_profile: true
 
 <details close>
   <summary>One-Shot Safety Alignment for Large Language Models via Optimal Dualization</summary>
-  <img src="/images/MoCAN.png" alt="TRAQ" width="400" style="float: center; margin-right: 10px;">
+<img src="/images/MoCAN.png" alt="MoCAN" width="400" style="float: center; margin-right: 10px;">
 
-**TL;DR:** We propose a one-shot safety alignment algorithm for LLM safety and helpfulness alignment.
+- TL;DR: We propose a one-shot safety alignment algorithm for LLM safety and helpfulness alignment.
 
-**Venue:** Spotlight at Neurips, 2024
+- Venue: Spotlight at Neurips, 2024
 
-[Read Full Paper](https://arxiv.org/abs/2405.19544)
+- [Read Full Paper](https://arxiv.org/abs/2405.19544)
 </details>
 
 
