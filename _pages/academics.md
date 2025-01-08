@@ -15,6 +15,10 @@ EMNLP 2024
 =====
 <iframe src="https://drive.google.com/file/d/1BMdIPpYB4JSPAN-UUAb--NINiyEQZVxT/preview" width="640" height="480" allow="autoplay"></iframe>
 
+Wharton Seminar in Advanced Application of Stat: Topics in Large Language Models
+=====
+<iframe src="https://drive.google.com/file/d/1MpnPC8jDopK9RSvYt8agapXYtkxyGCWC/preview" width="640" height="480" allow="autoplay"></iframe>
+
 MLBoost Seminars 
 =====
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JnWXebWUEg4?si=mP90QtlvQwZ0xtMF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
