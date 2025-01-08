@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shuo Li"
+title                    : "Shuo Li @ Safe AI"
 title_separator          : "-"
-name                     : &name "SL@Safe AI"
+name                     : &name "Shuo Li"
 description              : &description "Ph.D. @ UPenn"
 url                      : https://shuoli90.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
