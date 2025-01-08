@@ -15,9 +15,9 @@ author_profile: true
 
 - Venue: Spotlight at Neurips, 2024
 
-- - [Read Full Paper](https://arxiv.org/abs/2405.19544)
+- [Read Full Paper](https://arxiv.org/abs/2405.19544)
 
- <img src="/images/MoCAN.png" alt="MoCAN" width="400" style="float: center; margin-right: 10px;"> 
+- <img src="/images/MoCAN.png" alt="MoCAN" width="400" style="float: center; margin-right: 10px;"> 
 
 </details>
 
