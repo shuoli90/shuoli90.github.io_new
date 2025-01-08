@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-# Keynotes and Invited Talks
+## Keynotes and Invited Talks
 
 NACCL 2024
 =====
@@ -19,7 +19,7 @@ MLBoost Seminars
 =====
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JnWXebWUEg4?si=mP90QtlvQwZ0xtMF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Mentored students
+## Mentored students
 
 - Botong Zhang
 - [Leo Huang](https://live-sas-physics.pantheon.sas.upenn.edu/people/leo-huang) 
