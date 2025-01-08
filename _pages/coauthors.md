@@ -15,8 +15,13 @@ author_profile: true
 - [Mononito Goswami](https://mononito.com/)
 - [Michele Caprio](https://michelecaprio.wixsite.com/caprio)
 - [David Stutz](https://davidstutz.de/)
+- [Alexander Shypula](https://alexshypula.github.io/)
 - [Oleg Solkolsky](https://directory.seas.upenn.edu/oleg-sokolsky/)
-
+- [Laurent Callot](https://lcallot.github.io/)
+- [Andrey Kan](https://github.com/malysch)
+- [Tim Esler](https://github.com/timesler)
+- [Shihab Rashid](https://www.cs.ucr.edu/~mrash013/)
+- [Bhavana Bhasker](https://bhavanabhasker.com/)
 
 
 ## Mentored students
