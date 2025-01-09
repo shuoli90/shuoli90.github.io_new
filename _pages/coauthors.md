@@ -9,7 +9,7 @@ author_profile: true
 - [Sangdon Park](https://sangdon.github.io/)
 - [Edgar Dobriban](https://statistics.wharton.upenn.edu/profile/dobriban/)
 - [Xiayan Ji](https://xjiae.github.io/)
-- Xinmeng Huang
+- [Xinmeng Huang](https://www.linkedin.com/in/xinmeng-huang-8032221b3/)
 - [Dongsheng Ding](https://dongshed.github.io/)
 - [Mengxin Yu](https://maxineyu.github.io/personal_web/)
 - [Mononito Goswami](https://mononito.com/)
@@ -25,8 +25,9 @@ author_profile: true
 
 
 ## Mentored students
-- Botong Zhang
-- [Leo Huang](https://live-sas-physics.pantheon.sas.upenn.edu/people/leo-huang) 
+- [Botong Zhang](https://www.linkedin.com/in/botong-zhang/)
+- [Leo Huang](https://live-sas-physics.pantheon.sas.upenn.edu/people/leo-huang)
+- [Sarah Luthra](https://www.linkedin.com/in/sarahluthra/) 
 - [Sahachar Reddy](https://www.grasp.upenn.edu/people/sahachar-reddy-tippana/)
-- Aspira Tripathy
+- [Aspira Tripathy](https://www.linkedin.com/in/aspi-97/)
 
