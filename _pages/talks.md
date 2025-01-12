@@ -19,8 +19,11 @@ author_profile: true
 ## MLBoost Seminars 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JnWXebWUEg4?si=mP90QtlvQwZ0xtMF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+# Course/Seminar
+- [Penn Agent Reading Group](https://shuoli90.github.io/penn-agents/)
 
-# Media
+
+# Media Coverage
 
 - [Creating More Efficient and Trustworthy AI Systems, Penn Engineering Today](https://blog.seas.upenn.edu/creating-more-efficient-and-trustworthy-ai-systems/)
 - [PRECISE News](https://precise.seas.upenn.edu/news/20211110-xiayan-ji-and-shuo-li-selected-one-finalists-2021-wells-fargo-campus-analytics)
