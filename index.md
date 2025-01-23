@@ -18,3 +18,6 @@ My contributions have been recognized at ML and NLP venues, including NeurIPS, I
 
 > *"知之为知之，不知为不知，是知也"*  
 > *"To know what you know and to acknowledge what you do not know—this is true knowledge."*
+
+## News
+- Our [Conformal Structured Prediction](https://arxiv.org/abs/2410.06296) is accepted to ICLR 2025.
