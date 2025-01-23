@@ -1,3 +1,13 @@
+---
+title: 'A Brief Summary on Agent Tuning'
+date: 2025-01-22
+permalink: /posts/2025/01/agenttuning/
+tags:
+  - agent
+  - finetuning
+  - llm
+---
+
 # Agent Tuning/Learning
 ## Motivation
 ### Agents: what are they and how are they used
@@ -32,19 +42,16 @@ Having noticed the limitations with the above algorithm, recent works have start
 ### What dataset have been devised?
 To facilitate agent tuning, several datasets and a few dynamic environments have been developed. We analyze existing agent tuning datasets from four perspectives, including dynamic vs static (a fixed set of instructions or not), their tasks (specific domain vs diverse), generation source (LLMs or human), size. The results are listed below:
 
-| Name          | Tasks                  | Demonstration                | Size                                 | Remark                                                                                                              |
-|---------------|------------------------|------------------------------|--------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| Static        |                        |                              |                                      |                                                                                                                     |
-| Swe-gym       | repo-level code repair | openhands + gpt4o/sonnet-3.5 | 2.3K                                 |                                                                                                                     |
-| agent-tuning  | diverse                | gpt-4o + gpt-3.5             | 1.8k                                 |                                                                                                                     |
-| Mind2Web      | web interaction        | human                        | 2.3k                                 |                                                                                                                     |
-| fireact       | diverse                | gpt4                         | 500                                  | different prompting: react, CoT, reflextion                                                                         |
-| agentbank     | diverse                | gpt4o                        | 50k                                  |                                                                                                                     |
-| agentgym      |                        |                              |                                      |                                                                                                                     |
-| Dyanmic       |                        |                              |                                      |                                                                                                                     |
-| agentgym      | diverse                | gpt-4o                       | 20.5k instruction + 6k demonstration | a combination of previously collected environment + gpt4o generation instructions                                   |
-| agentGen      | diverse                | PDDL                         | 7.2k                                 | utilize domain texts to generate diverse tasks                                                                      |
-| apigen        | diverse                | deep-seek, mistral           | 10k                                  | similar to AgentGen, this work samples from a collection of questions, and APIs to generate diverse scenarios/tasks |
-| agentinstruct | diverse                | gpt4o                        | 25.8M                                | employ an agent to generate tasks;                                                                                  |
+| Name          | Property | Tasks                  | Demonstration                | Size                                 | Remark                                                                                                              |
+|---------------|----------|------------------------|------------------------------|--------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Swe-gym       | Static   | repo-level code repair | openhands + gpt4o/sonnet-3.5 | 2.3K                                 |                                                                                                                     |
+| agent-tuning  | Static   | diverse                | gpt-4o + gpt-3.5             | 1.8k                                 |                                                                                                                     |
+| Mind2Web      | Static   | web interaction        | human                        | 2.3k                                 |                                                                                                                     |
+| fireact       | Static   | diverse                | gpt4                         | 500                                  | different prompting: react, CoT, reflextion                                                                         |
+| agentbank     | Static   | diverse                | gpt4o                        | 50k                                  |                                                                                                                     |
+| agentgym      | Dyanmic  | diverse                | gpt-4o                       | 20.5k instruction + 6k demonstration | a combination of previously collected environment + gpt4o generation instructions                                   |
+| agentGen      | Dynamic  | diverse                | PDDL                         | 7.2k                                 | utilize domain texts to generate diverse tasks                                                                      |
+| apigen        | Dynamic  | diverse                | deep-seek, mistral           | 10k                                  | similar to AgentGen, this work samples from a collection of questions, and APIs to generate diverse scenarios/tasks |
+| agentinstruct | Dynamic  | diverse                | gpt4o                        | 25.8M                                | employ an agent to generate tasks;                                                                                  |
 
 
