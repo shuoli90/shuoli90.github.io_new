@@ -8,6 +8,8 @@ tags:
   - llm
 ---
 
+This is a brief introduction to agent tuning, including its motivation, challenges, common practice and existing datasets.
+
 # Agent Tuning/Learning
 ## Motivation
 ### Agents: what are they and how are they used
