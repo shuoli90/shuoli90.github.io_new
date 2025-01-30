@@ -20,5 +20,5 @@ My contributions have been recognized at ML and NLP venues, including NeurIPS, I
 > *"To know what you know and to acknowledge what you do not know—this is true knowledge."*
 
 ## News
-- Our [Conformalized credal regions for classification with ambiguous ground truth](https://arxiv.org/pdf/2411.04852?) is accepted to TMLR.
+- Our [Conformalized credal regions for classification with ambiguous ground truth](https://arxiv.org/pdf/2411.04852?) is accepted to TMLR 2025.
 - Our [Conformal Structured Prediction](https://arxiv.org/abs/2410.06296) is accepted to ICLR 2025.
